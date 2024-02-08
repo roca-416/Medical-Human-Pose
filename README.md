@@ -6,8 +6,22 @@ The Medical-Human-Pose dataset contains 3752 depth images of people standing, si
 
 ### Structure
 - Depth maps
+  
+  mat_train.rar
+  
+  mat_test.rar
+  
 - Keypoints
+  
+  keypoint_train.mat
+  
+  keypoint_test.mat
+  
 - Bounding Boxes
+  
+  bndbox_train.mat
+  
+  bndbox_test.mat
 
 ### Declaration
 This dataset only contains the data collected by our team themselves in the laboratory of Beijing Institute of Technology, and the data collected in the hospital is not publicly available due to privacy and permission issues.
